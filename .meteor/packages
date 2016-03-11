@@ -33,4 +33,4 @@ zimme:active-route
 gwendall:auth-client-callbacks
 meteortoys:allthings
 datariot:ganalytics
-meteor add alanning:roles
+alanning:roles
